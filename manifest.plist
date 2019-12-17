@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ProLayman09/testMN_ipa/raw/master/ManNew.ipa</string>
+					<string>http://mn.etjs.cn:3576/MN/AppDownload/ios/ManNew.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/ProLayman09/testMN_ipa/raw/master/image.57x57.png</string>
+					<string>http://mn.etjs.cn:3576/MN/AppDownload/ios/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/ProLayman09/testMN_ipa/raw/master/image.512x512.png</string>
+					<string>http://mn.etjs.cn:3576/MN/AppDownload/ios/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
